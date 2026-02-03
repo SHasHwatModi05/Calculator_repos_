@@ -1,2 +1,43 @@
-# Calculator_repos_
-A responsive calculator app built using core web technologies. Features include:  Basic arithmetic operations  Real-time display updates  Clear (AC) and delete (DEL) options  Expression evaluation using JavaScript logic
+# 🧮 JavaScript Calculator
+
+A fully functional web-based calculator built using **HTML, CSS, and JavaScript**.  
+This project demonstrates core JavaScript concepts such as DOM manipulation, event handling, and dynamic expression evaluation.
+
+---
+
+## 🚀 Live Demo
+You can view the live project here:  
+👉 **(Add your deployed project link here)**
+
+---
+
+## 📌 Features
+
+- Perform basic arithmetic operations:  
+  ➕ Addition  
+  ➖ Subtraction  
+  ✖ Multiplication  
+  ➗ Division  
+
+- Real-time input display  
+- **AC (All Clear)** – clears the entire input  
+- **DEL (Delete)** – removes the last entered character  
+- Responsive and user-friendly interface  
+- Instant evaluation using JavaScript logic  
+
+---
+
+## 🛠 Technologies Used
+
+- **HTML5** – Structure of the calculator  
+- **CSS3** – Styling and layout  
+- **JavaScript (ES6)** – Core functionality and logic  
+
+---
+
+
+
+
+
+ 
+
