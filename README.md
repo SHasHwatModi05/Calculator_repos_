@@ -7,7 +7,8 @@ This project demonstrates core JavaScript concepts such as DOM manipulation, eve
 
 ## 🚀 Live Demo
 You can view the live project here:  
-👉 **(Add your deployed project link here)**
+
+👉 https://shashwatmodi05.github.io/Calculator_repos_/
 
 ---
 
